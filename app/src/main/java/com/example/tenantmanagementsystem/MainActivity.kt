@@ -1,8 +1,8 @@
-package com.example.tenantmanagementsystemgroupa
+package com.example.tenantmanagementsystem
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.tenantmanagementsystemgroupa.databinding.ActivityMainBinding
+import com.example.tenantmanagementsystem.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
